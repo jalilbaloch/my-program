@@ -21,10 +21,11 @@ public class PrimeExample{
                   flag=1;
                   break;
                 }
-			}
+	    }
 
             if(flag==0){ 
-		    System.out.println(n+"TThis  is Prime Number"); }
+		    System.out.println(n+"This  is Prime Number"); 
+	    }
         }
     }
 }	
