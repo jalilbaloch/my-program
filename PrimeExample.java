@@ -9,7 +9,7 @@ public class PrimeExample{
 		
 		if(n==0 ||n==1){
 		
-		    System.out.println(n+" is not prime number");
+		    System.out.println(n+" This is Not Prime Number");
 		
         }else{
           
@@ -17,14 +17,14 @@ public class PrimeExample{
                 
                 if(n%i==0){
                  
-			System.out.println(n+" is not prime number");
+			System.out.println(n+" This is not Prime Number");
                   flag=1;
                   break;
                 }
 			}
 
             if(flag==0){ 
-		    System.out.println(n+" is prime number"); }
+		    System.out.println(n+"TThis  is Prime Number"); }
         }
     }
 }	
