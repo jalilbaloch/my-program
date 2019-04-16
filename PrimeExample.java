@@ -3,7 +3,7 @@ public class PrimeExample{
 	public static void main(String args[]){
 	
 	    int i,m=0,flag=0;
-		
+		// this is good
 		int n=5;
 		m=n/2;
 		
